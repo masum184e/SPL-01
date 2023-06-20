@@ -1,4 +1,4 @@
-public class CMD_Color {
+public class ConsoleColor {
     public static void main(String[] args) {
         System.out.println("\033[31m" + "Hello, world!" + "\033[0m");//Hello, world! in red
         System.out.println("\033[31m" + "Hello, world!");//Hello, world! and ending path in red
