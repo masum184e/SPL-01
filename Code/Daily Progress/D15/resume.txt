@@ -1,0 +1,8 @@
+routine|10|42
+approve|9|16
+possibly|8|73
+reputation|6|79
+legend|5|41
+confront|4|43
+indicate|3|55
+grandfather|2|20
