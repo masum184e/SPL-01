@@ -1,0 +1,4 @@
+resistance|17|59
+sophisticated|16|65
+recover|3|4
+major|1|30
