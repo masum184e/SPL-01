@@ -1,0 +1,2 @@
+climate|1|12
+mountain|10|45
